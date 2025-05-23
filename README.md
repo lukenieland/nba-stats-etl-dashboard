@@ -2,7 +2,7 @@
 
 This project combines data engineering, sports analytics, and interactive dashboards to explore NBA player performance over the last 25 years. Using Python for data collection and transformation, and Power BI for visual storytelling, I built a tool to analyze player trends, team performance, and league evolution from 2000 through 2025.
 
-**Interactive Dashboard**:  [Explore the Power BI Dashboard](https://app.powerbi.com/groups/me/reports/6bd6e996-e5ee-403f-b4e8-5393fe444a33/cd42f6c69297499da3eb?experience=power-bi)
+**Interactive Dashboard**:  [Explore the Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNmE0YzgzZWMtY2ZkOS00Nzc4LTgyZDQtYmU5NjhmZjY4NzJkIiwidCI6ImZkZGIwMWFkLTQ5ODMtNDM2ZS1hYjM1LTFhZjA0M2I4MThjOSIsImMiOjN9)
 
 ## Project Structure
 
