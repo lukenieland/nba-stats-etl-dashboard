@@ -6,8 +6,8 @@ This project combines data engineering, sports analytics, and interactive dashbo
 
 ## Project Structure
 
- - main.py # Script to scrape and compile NBA stat
- - stats.csv # Generated dataset from the script (optional)
+ - main.py # Script to scrape and compile NBA statistics
+ - stats.csv # Generated dataset from the script
  - NBAStatsDashboard.pbix # Power BI dashboard built on the dataset
  - README.md # Project overview and usage
 
