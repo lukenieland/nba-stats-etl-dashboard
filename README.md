@@ -27,9 +27,10 @@ This project combines data engineering, sports analytics, and interactive dashbo
 
 ## How To Use
 
+Use the interactive link above ... OR:
 1. Clone the repository.
 2. Run `main.py` (uncomment HTML scraping block) to scrape and build the dataset.
-3. Open the `.pbix` file in Power BI Desktop and connect to `stats.csv`. (Or use the interactive link above)
+3. Open the `.pbix` file in Power BI Desktop and connect to `stats.csv`.
 4. Explore insights or customize visuals as needed.
 
 ## Skills Demonstrated
